@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nicole! 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF44D2&lines=Hey%2C+I'm+Nicole!++%F0%9F%91%8B)](https://git.io/typing-svg)
 * I'm a Software Engineer at [HiPeople](https://www.hipeople.io/) (we are hiring!)
 * I'm a figure skater ⛸️ who is also learning to lift 🏋🏻‍♀️
 * I'm British Filipina 🇬🇧🇵🇭
