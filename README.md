@@ -30,8 +30,7 @@
 ![image](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)
 
 
-![image](https://github-readme-stats.vercel.app/api?username=nicoleanalisecox&theme=toykonight&show_icons=true) 
-![image](https://github-readme-streak-stats.herokuapp.com/?user=nicoleanalisecox)
+![image](https://github-readme-stats.vercel.app/api?username=nicoleanalisecox&theme=tokyonight&show_icons=true) 
 
 
 <!--
