@@ -5,7 +5,6 @@
 * I have a personal [blog](https://www.nicoleanalisecox.com) ✍🏽
 * I have a bachelors degree in Product Design Engineering ⚙️
 * I'm a self-taught web dev 👩🏻‍💻
-* And now a part-time MSc Computer Science student at University of Bath 🎓
 
 ### Toolbox
 **Tech**
