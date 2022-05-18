@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF44D2&lines=Hey%2C+I'm+Nicole!++%F0%9F%91%8B)](https://git.io/typing-svg)
-* I'm a Software Engineer at [HiPeople](https://www.hipeople.io/) (we are hiring!)
+* I'm a Software Engineer at [HiPeople](https://www.hipeople.io/)
 * I'm a figure skater ⛸️ who is also learning to lift 🏋🏻‍♀️
 * I'm British Filipina 🇬🇧🇵🇭
-* I have a personal [blog](https://www.nicoleanalisecox.com) ✍🏽
+* I have a personal [blog](https://www.nicoleis.xyz/blog) ✍🏽
 * I have a bachelors degree in Product Design Engineering ⚙️
-* I'm a self-taught web dev 👩🏻‍💻
+* I'm a self-taught web dev - [portfolio](https://nicoleis.xyz/) 👩🏻‍💻 
 
 ### Toolbox
 **Tech**
