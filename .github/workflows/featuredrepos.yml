@@ -1,4 +1,4 @@
-name: Achievements (Detailed)
+name: Featured Repos
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -12,7 +12,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.repositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.achievements.svg
           base: ""
-          plugin_achievements: yes
+          plugin_repositories: yes
+
+          
