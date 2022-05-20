@@ -35,7 +35,7 @@
 
 ![image](https://github-readme-stats.vercel.app/api?username=nicoleanalisecox&theme=jolly&show_icons=true) 
 
-
+![Metrics](/github-metrics.svg)
 
 <!--
 **nicoleanalisecox/nicoleanalisecox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
