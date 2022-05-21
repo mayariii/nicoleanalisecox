@@ -13,7 +13,7 @@
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![image](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)
 
-[My digital garden 🌳](https://www.nicoleisgardening.netlify.app)
+[My digital garden 🌳](https://www.nicolesgarden.digital)
 
 **🛠 Tech:**
 
