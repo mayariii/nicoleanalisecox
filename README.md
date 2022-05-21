@@ -5,10 +5,12 @@
 * I have a bachelors degree in Product Design Engineering ⚙️
 * I'm a self-taught web dev 👩🏻‍💻 
 
-[My personal site & blog](https://nicoleis.xyz/) is built with:
+[My personal site & blog](https://nicoleis.xyz/), built with:
 
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![image](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)
+
+[My digital garden 🌳](https://www.nicoleisgardening.netlify.app)
 
 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
