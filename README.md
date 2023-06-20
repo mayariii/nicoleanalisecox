@@ -31,9 +31,8 @@ microsoft paint artiste 🎨 → turned pre-teen piczo glittery website builder 
 
 **💌 How you can reach me:**
 
-[![image](https://img.shields.io/badge/polywork-8d90e2?style=for-the-badge&logo=polywork&logoColor=f3c6f2)](https://www.polywork.com/nicoleanalisecox)
-[![image](https://img.shields.io/badge/Twitter-bd98e0?style=for-the-badge&logo=twitter&logoColor=dfe2fb)](https://twitter.com/nicoleisxyz)
-[![image](https://img.shields.io/badge/LinkedIn-8d90e2?style=for-the-badge&logo=linkedin&logoColor=f3c6f2)](https://linkedin.com/in/nicoleanalisecox)
+[![image](https://img.shields.io/badge/Twitter-bd98e0?style=for-the-badge&logo=twitter&logoColor=f3c6f2)](https://twitter.com/nicoleisxyz)
+[![image](https://img.shields.io/badge/LinkedIn-8d90e2?style=for-the-badge&logo=linkedin&logoColor=dfe2fb)](https://linkedin.com/in/nicoleanalisecox)
 
 <!--
 **nicoleanalisecox/nicoleanalisecox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
