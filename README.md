@@ -4,7 +4,7 @@ a british-filipina from the UK 🇬🇧🇵🇭
 
 currently frontend engineer @ Outverse 🪐 ~ formerly HiPeople & Siemens
 
-microsoft paint artiste 🎨 → turned pre-teen piczo glittery website builder 💅 → turned product design engineering graduate 👩🏻‍🎓 → turned rail engineer 👷🏻‍♀️ → turned person curious about code during lockdown 👀 → turned self-taught web developer 👩🏻‍💻
+microsoft paint artiste 🎨 → turned pre-teen piczo glittery website builder 💅 → turned product design engineering graduate 👩🏻‍🎓 → turned rail engineer 👷🏻‍♀️ → turned person curious about code during lockdown 👀 → turned frontend engineer 👩🏻‍💻
 
 **🌎 Links:**
 
