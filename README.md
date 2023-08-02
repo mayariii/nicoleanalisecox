@@ -1,4 +1,4 @@
-hiiiii i’m nicole ☁️
+hiiiii i’m maya ☁️
 
 a british-filipina from the UK 🇬🇧🇵🇭
 
